@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/global_weather_app/static/css/main.4a7a1083.css",
+    "main.js": "/global_weather_app/static/js/main.653e7405.js",
+    "static/js/787.5b404d1a.chunk.js": "/global_weather_app/static/js/787.5b404d1a.chunk.js",
+    "static/media/sun.png": "/global_weather_app/static/media/sun.fb750ee97d19558a6a6a.png",
+    "static/media/card_weather_2.jpg": "/global_weather_app/static/media/card_weather_2.15de41974b8731c8bbf3.jpg",
+    "static/media/rain.png": "/global_weather_app/static/media/rain.54b24d5959beb232182a.png",
+    "static/media/card__weather.jpg": "/global_weather_app/static/media/card__weather.0651cd0dc3dec644cfa8.jpg",
+    "static/media/cloud3d.png": "/global_weather_app/static/media/cloud3d.f0fc0db996b3f11195cf.png",
+    "static/media/clear_right_weather.jpg": "/global_weather_app/static/media/clear_right_weather.46e7b3e007a2ffe54d94.jpg",
+    "static/media/cloud_right_weather.jpg": "/global_weather_app/static/media/cloud_right_weather.b920288cc1cba306e755.jpg",
+    "static/media/tommorrow.jpg": "/global_weather_app/static/media/tommorrow.25e8cdf795cda0eb6da3.jpg",
+    "static/media/snow_weather.jpg": "/global_weather_app/static/media/snow_weather.fdf9a273539613913d1f.jpg",
+    "static/media/snow.png": "/global_weather_app/static/media/snow.01027887bb0154961706.png",
+    "static/media/a.png": "/global_weather_app/static/media/a.4dd963ab37ffcc695050.png",
+    "static/media/logo.png": "/global_weather_app/static/media/logo.10028fc612d087d62154.png",
+    "static/media/snow_right_weather.jpg": "/global_weather_app/static/media/snow_right_weather.0f1f9a0d4d4416cb534c.jpg",
+    "static/media/m.png": "/global_weather_app/static/media/m.c9f20ed364cec65c90ae.png",
+    "static/media/clear_weather.jpg": "/global_weather_app/static/media/clear_weather.ce1d9efac8e3f9b99cb1.jpg",
+    "static/media/n.png": "/global_weather_app/static/media/n.74e5d8849c05365c2a13.png",
+    "index.html": "/global_weather_app/index.html",
+    "main.4a7a1083.css.map": "/global_weather_app/static/css/main.4a7a1083.css.map",
+    "main.653e7405.js.map": "/global_weather_app/static/js/main.653e7405.js.map",
+    "787.5b404d1a.chunk.js.map": "/global_weather_app/static/js/787.5b404d1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a7a1083.css",
+    "static/js/main.653e7405.js"
+  ]
+}
