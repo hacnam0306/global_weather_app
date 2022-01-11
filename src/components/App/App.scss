@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;1,300;1,400;1,500;1,600&display=swap");
+* {
+  font-family: "Be Vietnam Pro", sans-serif;
+  user-select: none;
+}
+.text-orange {
+  color: #f8822b;
+}
+.border-bottom {
+  border-bottom: 1px solid #ccc;
+  margin: 0 auto;
+}
+.text-yellow {
+  color: #dbe4e1;
+}
+.active {
+  background-color: #f97f29;
+  color: #fff !important ;
+  padding: 16px;
+  border-radius: 20px;
+  transition: 0.5s;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px,
+    rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px,
+    rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  &:hover {
+    color: #fff !important;
+  }
+}
+a {
+  color: grey;
+  &:hover {
+    color: #f97f29;
+  }
+}
+.text-grey {
+  color: grey;
+}
+li {
+  list-style: none !important;
+  color: grey;
+}
+.activeSm {
+  background-color: #f97f29;
+  color: #fff !important ;
+  padding: 10px;
+  border-radius: 10px;
+  transition: 0.5s;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px,
+    rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px,
+    rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+.modal-content {
+  border-radius: 20px !important;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px,
+    rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px,
+    rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  background-image: linear-gradient(#9cc0db, #e1effa);
+}
+.modal-title {
+  color: #282a35;
+  font-weight: bold;
+}
+.modal-body {
+  display: flex;
+  input {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 0 10px 20px;
+    outline: none;
+  }
+}

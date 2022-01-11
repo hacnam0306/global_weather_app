@@ -1,0 +1,41 @@
+.line {
+  border-top: 1px solid #f7c7a3;
+  margin-top: 160px;
+  padding-top: 30px;
+  position: relative;
+  background-color: #f7f7f7;
+  &::after {
+    content: "";
+    position: absolute;
+    top: -100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    background-color: #f8eee2;
+    height: 180px; /* as the half of the width */
+    border-top-left-radius: 190px; /* 100px of height + 10px of border */
+    border-top-right-radius: 190px; /* 100px of height + 10px of border */
+    border: 2px dotted #fda446;
+    border-bottom: 0;
+  }
+}
+.banner {
+  background-color: #19283f;
+  color: #fff;
+  border-radius: 20px;
+  padding: 15px;
+  .city_span {
+    color: #000;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 20px;
+    background-color: #cce16a;
+    padding: 8px;
+    border-radius: 12px;
+  }
+}
+.weather_predict_card {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
